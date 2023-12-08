@@ -235,3 +235,5 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000325?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000315?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="緯來電影" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105432854571_34.png" group-title="Movie",[BD]緯來電影
 https://epg.pw/stream/e204d3abd83493f0ce9ddd71c5d573f9726c6be6628a2b106208ce061b700cae.m3u8
+#EXTINF:-1 tvg-name="生活时尚 8m" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/19/large/20160619172359867221_76.jpg" group-title="Generic",[BD]生活时尚 8m
+https://epg.pw/stream/f2876354cd43079da5637591a7e3bf83006279b59c0ebcddb61e49f0850f1803.ctv
