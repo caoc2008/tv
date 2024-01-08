@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="902" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="重庆本地",重庆新闻
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="903" tvg-name="重庆科教" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%91%E6%95%99.png" group-title="重庆本地",重庆科教
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="904" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9.png" group-title="重庆本地",重庆汽摩
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="905" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="重庆本地",重庆少儿
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="906" tvg-name="重庆社会与法" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="重庆本地",重庆社会与法
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="907" tvg-name="重庆时尚生活" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%97%B6%E5%B0%9A%E7%94%9F%E6%B4%BB.png" group-title="重庆本地",重庆时尚生活
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="908" tvg-name="重庆文娱体育" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="重庆本地",重庆文体娱乐
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="909" tvg-name="重庆新农村" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="重庆本地",重庆新农村
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="910" tvg-name="重庆移动" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8.png" group-title="重庆本地",重庆移动
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="911" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="重庆本地",重庆影视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
